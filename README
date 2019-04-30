@@ -12,3 +12,4 @@ $ launchctl list | grep daily
 
 ln -f -s ~/Personal/scripts/z.backup ~/.z
 
+
